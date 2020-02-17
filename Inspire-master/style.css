@@ -1,0 +1,24 @@
+.quotePad{
+  padding-top: 20em;
+}
+
+.todoPad{
+  padding-inline-start: 60em;
+    padding-block-start: 2em;
+}
+
+.whiteText{
+  color: black;
+  text-shadow: 1px 1px white
+  -1px 1px white
+  1px -1px white
+  -1px -1px white
+  ;
+}
+
+body{
+  min-height:100vh ;
+  background-size: cover;
+  background-position: center;
+}
+
